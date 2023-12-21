@@ -29,4 +29,7 @@ of these methods take more time from the team so they may not be the best for us
 to use if the results are similar.
 - They don’t know if there are other differences between the customers in each group, so they wanted to see what I could tell them that could be helpful about that from the data.
 
-Well, I bagged the certification tells you that I did a great job delivering on this. Dive into the project [Here]()
+Well, I bagged the certification tells you that I did a great job delivering on this. 
+
+Dive into the project [Here](https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python/blob/main/workspace%20Pen%26Printers/workspace/notebook.ipynb)
+View the presentation slides for the executive team [Here](https://docs.google.com/presentation/d/1VigE8rQVb-8BsvVPezaCmFrhF9e6eeIpQiZqYJWubN4/edit?usp=sharing)
