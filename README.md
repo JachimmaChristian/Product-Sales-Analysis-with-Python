@@ -1,5 +1,5 @@
 # Sales-Approach-Analysis-with-Python
-Hello, welcome again to my projects.
+Hello! :D
 
 This repo hosts the project that earned me my DataCamp Profesional [certification](https://www.datacamp.com/certificate/DA0021457928745). For this project, I was tasked to analyze data from the sales team of Pens and Printers. 
 
