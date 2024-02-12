@@ -32,4 +32,4 @@ to use if the results are similar.
 Well, I bagged the certification tells you that I did a great job delivering on this. 
 
 Dive into the project [Here](https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python/blob/main/workspace%20Pen%26Printers/workspace/notebook.ipynb)
-View the presentation slides for the executive team [Here](https://docs.google.com/presentation/d/1VigE8rQVb-8BsvVPezaCmFrhF9e6eeIpQiZqYJWubN4/edit?usp=sharing)
+View the presentation slides for the executive team [Here](https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python/blob/main/PRACTICAL%20EXAM%20PRESENTATION%20-%20Christian%20Jachimma%20%20Christian.pdf)
